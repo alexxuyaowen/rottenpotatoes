@@ -1,3 +1,3 @@
 # rottenpotatoes
 
-[Demo](http://chip5potatoes.herokuapp.com)
+[Try it out!](http://chip5potatoes.herokuapp.com)
