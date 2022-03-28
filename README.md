@@ -7,4 +7,4 @@
 2. Sort movies based on Moive Title or Release Date.
 3. Edit existing movies' information.
 4. Add more movies.
-5. Changes are made persistent via the use of cookies and database.
+5. Changes are made persistent via the use of cookies and database systems.
