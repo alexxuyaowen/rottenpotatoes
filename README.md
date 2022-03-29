@@ -1,8 +1,8 @@
 # rottenpotatoes
 
-[Demo](http://chip5potatoes.herokuapp.com)
-
 ![Demo](https://github.com/alexxuyaowen/rottenpotatoes/blob/main/Rottenpotatoes/demo.png)
+
+[Demo](http://chip5potatoes.herokuapp.com)
 
 ### Features:
 1. Filter movies based on ratings.
