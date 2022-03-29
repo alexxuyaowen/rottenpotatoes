@@ -2,6 +2,8 @@
 
 [Demo](http://chip5potatoes.herokuapp.com)
 
+![Demo](https://github.com/alexxuyaowen/rottenpotatoes/blob/main/Rottenpotatoes/demo.png)
+
 ### Features:
 1. Filter movies based on ratings.
 2. Sort movies based on Moive Title or Release Date.
